@@ -1,8 +1,8 @@
 MONITORING_CONFIG = {
     'email': {
-        'sender': 'ibtissammahdi315@gmail.com',
-        'password': 'lktl hsrh shtf wfkt',
-        'receiver': 'echbanielidrissiaya@gmail.com',
+        'sender': '**@gmail.com',
+        'password': '*****',
+        'receiver': '**@gmail.com',
         'smtp_server': 'smtp.gmail.com',
         'smtp_port': 587
     },
