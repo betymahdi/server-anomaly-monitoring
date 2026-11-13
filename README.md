@@ -1,5 +1,7 @@
 # Server Monitoring Dashboard
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+
 Tableau de bord de supervision de serveur en temps réel : suivi de l'utilisation CPU, mémoire et disque, détection des dépassements de seuil et alertes par e-mail.
 
 ## Fonctionnalités
